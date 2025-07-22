@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ManageRequest.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/UpdateInventory_NewBook.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/LoginController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ViewUserAccount.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ViewCart.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ViewUserRequestController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/WEB-INF/web.xml</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/PaidCheckController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ViewAllBookController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ViewUserAccountController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ReturnBookController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/GetLastestBookController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/dao/BookDAO.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/Signup.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/AddSystemConfigController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/SendBorrowRequestControler.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/EditBookController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/LogoutController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/AdminDashBoard.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ViewProfile.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/BorrowHistory.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ViewDetailBookController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ChangeProfileController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/index.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/AddBookController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/css/signup.css</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ViewBorrowHistoryController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ViewBookDetail.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/SearchBookController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/BorrowController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ViewAllBooksForUpdateInventory.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/ViewRequestStatusController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ViewSystemConfig.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/UpdateInventory_AvailBook.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/Login.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/dao/UserDAO.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ManageBook.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/UserDashBoard.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/dao/BorrowrecordDAO.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ViewRequestStatus.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ManageInventory.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/MainController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/RemoveReuquestUserController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/EditSystemConfigController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/web/ViewFine.jsp</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/RegisterController.java</file>
+            <file>file:/D:/HOC_KY_4/PRJ301/RiealWorkShopAssignment/WorkshopAssignmentMain/src/java/controllers/AdminRequestActionController.java</file>
+        </group>
+    </open-files>
+</project-private>

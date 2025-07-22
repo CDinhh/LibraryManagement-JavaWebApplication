@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 20px;
+}
+
+a {
+    color: purple;
+    font-size: 26px;
+    text-decoration: underline;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+th {
+    background-color: #333;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #999661;
+}
+
+
+.highlightrow {
+    background-color : #f2f2f2;
+}

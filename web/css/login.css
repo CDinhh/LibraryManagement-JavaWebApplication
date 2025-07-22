@@ -1,0 +1,140 @@
+/* LOGIN PAGE GENERAL */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+.header {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 32px;
+}
+
+/* Logo + Home */
+.header-left a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1;
+}
+
+.header-left img {
+    height: 50px;
+    width: auto;
+    display: block;
+}
+
+.header-guest img {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px; 
+    object-fit: cover; 
+    display: block;
+}
+/* CENTER TITLE */
+.header > div:nth-child(2) {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* LOGIN FORM */
+form {
+    max-width: 400px;
+    margin: 40px auto 0;
+    padding: 30px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+form p {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"] {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    outline: none;
+    transition: border 0.2s;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border-color: #666;
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #555;
+}
+
+/* SIGN UP SECTION */
+.signup-container {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.signup-container form {
+    margin-top: 10px;
+    background: none;
+    padding: 0;
+    box-shadow: none;
+}
+
+.signup-container input[type="submit"] {
+    padding: 8px 16px;
+    font-size: 14px;
+    background-color: #777;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+.signup-container input[type="submit"]:hover {
+    background-color: #999;
+}
+
+/* ERROR MESSAGE */
+.error-message {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    margin-top: 15px;
+}
